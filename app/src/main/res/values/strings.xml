@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">THEBoyz</string>
+        <string name="name_members">Nama Member</string>
+        <string name="Lorem">Lorem ipsum color sit</string>
+
+        <string-array name="data_name">
+            <item>Sangyeon</item>
+            <item>Juyeon</item>
+            <item>Younghoon</item>
+            <item>Hyunjae</item>
+            <item>Sunwoo</item>
+            <item>Eric</item>
+        </string-array>
+
+        <string-array name="data_description">
+        <item>Nama lengkap Lee Sangyeon, leader THE BOYZ ini lahir pada tanggal 4 November 1996 di Seoul, Korea Selatan.
+            Posisinya dalam grup adalah vokalis utama. Dijuluki sebagai Ayahnya THE BOYZ</item>
+            <item>Lee Juyeon atau yang kerap disapa Juyeon ini lahir di Gwangju, Korea Selatan pada tanggal 15 Januari 1998.
+            Posisinya dalam grup adalah main dancer, vocalist, dan visual.</item>
+            <item>Lahir pada tanggal 8 Agustus 1997 dan mempunyai nama lengkap Kim Young Hoon.
+            Posisinya dalam grup sebagai vocalist dan visual.</item>
+            <item>Hyunjae lahir pada tanggal 13 September 1997 di Incheon Korea Selatan. Mempunyai nama
+            asli Lee Jaehyun, posisinya dalam grup sebagai lead vocalist, lead dancer, dan visual.
+            </item>
+            <item>Sunwoo lahir pada tanggal 12 April 2000 di Seongnam, Gyeonggi-do, Korea Selatan.
+            Member THE BOYZ yang bermarga Kim ini bertanggung jawab sebagai rapper dan vocalist dalam grupnya.
+            </item>
+            <item>Eric mempunyai nama asli Son Young Jae, member termuda dalam grup ini lahir pada tanggal 22 Desember 2000.
+            Posisinya dalam grup sebagai vocalist, rapper, dan lead dancer.</item>
+        </string-array>
+
+        <array name="data_photo">
+            <item>@drawable/sy</item>
+            <item>@drawable/ju</item>
+            <item>@drawable/yh</item>
+            <item>@drawable/hj</item>
+            <item>@drawable/sn</item>
+            <item>@drawable/er</item>
+        </array>
+</resources>
